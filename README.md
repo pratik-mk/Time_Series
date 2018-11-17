@@ -1,8 +1,6 @@
 # Time_Series
 This is the code for "Time Series Prediction"
 
-# Overview
-
 # Dependencies
 * pandas
 * numpy
