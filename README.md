@@ -10,3 +10,4 @@ Install dependencies via pip or just run this notebook in the cloud
 
 # Usage
 Run the jupyter notebook to see all the techniques.
+ok will do it
